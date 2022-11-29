@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icxz1 or all you guys can call me Ian
 - 👀 I’m interested in Back-end Web Developer
-- 🌱 I’m currently learning Javascript & Go
+- 🌱 I’m currently learning at Alterra Academy Backend Immersive Program
 - 💞️ I’m looking to collaborate on Web Dev 
 - 📫 You can follow me on Twitter https://twitter.com/codewithians
 
