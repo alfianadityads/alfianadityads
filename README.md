@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alfian-saputra-305800252/" title="Linkedin"> <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" width="50" height="50"/> </a>
-<a href="mailto:alfianadityadwi@gmail.com" title="Gmail"> <img src="https://www.shareicon.net/data/2015/10/03/111547_email_512x512.png" width="50" height="50"/> </a>
+<!-- <a href="mailto:alfianadityadwi@gmail.com" title="Gmail"> <img src="https://www.shareicon.net/data/2015/10/03/111547_email_512x512.png" width="50" height="50"/> </a> -->
 <a href="https://t.me/alfianadityadwi" title="Telegram"> <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="50" height="50"/> </a>
 
 
@@ -24,7 +24,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 ![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON%20web%20tokens)
 ![Mysql](https://img.shields.io/badge/-MySql-000?&logo=Mysql)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alfianadityads&theme=radical&show_icons=true&count_private=true" align="center" /></div>  
