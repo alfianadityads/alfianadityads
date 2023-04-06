@@ -26,6 +26,18 @@
 ![Mysql](https://img.shields.io/badge/-MySql-000?&logo=Mysql)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alfianadityads&theme=radical&show_icons=true&count_private=true" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alfianadityads&theme=radical&show_icons=true&count_private=true" align="center" /></div>  
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianadityads&theme=radical&card_width=445&layout=compact" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianadityads&theme=radical&card_width=445&layout=compact" align="center" /></div>  -->
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+  <a href="https://github.com/alfianadityads">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianadityads&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="helmimuzkr" />
+  </a>
+  <a href="https://github.com/alfianadityads">
+    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=alfianadityads&theme=react&hide_border=true" alt="Streak Stats"/>
+  </a>
+</div>
