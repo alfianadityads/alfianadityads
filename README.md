@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfian Aditya</h1>
-<h3 align="center">A passionate Backend developer from Yogyakarta Indonesia. Error and bug is part of my life, sometimes make me stress but I never consider it an enemy.</h3>
+<h3 align="center">Just an ordinary people who want to be a better person.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfianadityads&label=Profile%20views&color=0e75b6&style=flat" alt="alfianadityads" /> </p>
 
