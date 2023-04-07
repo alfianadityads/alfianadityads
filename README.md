@@ -35,7 +35,7 @@
 <div align="center">
 
   <a href="https://github.com/alfianadityads">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianadityads&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="helmimuzkr" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianadityads&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="alfianadityads" />
   </a>
   <a href="https://github.com/alfianadityads">
     <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=alfianadityads&theme=react&hide_border=true" alt="Streak Stats"/>
