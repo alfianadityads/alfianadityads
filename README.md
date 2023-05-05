@@ -13,8 +13,8 @@
 ### Languages
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![JAVASCRIPT](https://img.shields.io/badge/-javasript-000?&logo=Javascript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) 
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<!-- ![JAVASCRIPT](https://img.shields.io/badge/-javasript-000?&logo=Javascript) -->
 
 ### Technologies
 
