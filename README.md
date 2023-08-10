@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfian Aditya</h1>
 <h3 align="center">Just an ordinary people who want to be a better person.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfianadityads&label=Profile%20views&color=0e75b6&style=flat" alt="alfianadityads" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +24,8 @@
 ![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON%20web%20tokens)
 ![Mysql](https://img.shields.io/badge/-MySql-000?&logo=Mysql)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfianadityads&label=Profile%20views&color=0e75b6&style=flat" alt="alfianadityads" /> </p>
 
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alfianadityads&theme=radical&show_icons=true&count_private=true" align="center" /></div>  
 <br/>
