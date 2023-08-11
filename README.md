@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alfian Aditya</h1>
+<h3 align="center"> Hi, there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Alfian Aditya </h3>
 <h3 align="center">Just an ordinary people who want to be a better person.</h3>
 
 
