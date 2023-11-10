@@ -1,6 +1,10 @@
 <h3 align="center"> Hi, there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Alfian Aditya </h3>
-<h3 align="center">Just an ordinary people who want to be a better person.</h3>
 
+
+### 👀 About Me
+- I’m currently learning Java and improving my Quality Assurance Engineer (Automation & Manual) skills
+- I have graduated from Alterra Academy as Quality Assurance Engineer 
+- I have a strong interest in Quality Engineering and like explore about new trends in QE tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,18 +15,20 @@
 
 ### Languages
 
+![Java](https://img.shields.io/badge/-Java-ED8B00?&logo=openjdk)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 <!-- ![JAVASCRIPT](https://img.shields.io/badge/-javasript-000?&logo=Javascript) -->
 
 ### Technologies
 
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Cucumber](https://img.shields.io/badge/-Cucumber-000?&logo=Cucumber)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
-![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON%20web%20tokens)
-![Mysql](https://img.shields.io/badge/-MySql-000?&logo=Mysql)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfianadityads&label=Profile%20views&color=0e75b6&style=flat" alt="alfianadityads" /> </p>
@@ -36,7 +42,7 @@
 <div align="center">
 
   <a href="https://github.com/alfianadityads">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianadityads&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="alfianadityads" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianadityads&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="alfianadityads" />
   </a>
   <a href="https://github.com/alfianadityads">
     <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=alfianadityads&theme=react&hide_border=true" alt="Streak Stats"/>
